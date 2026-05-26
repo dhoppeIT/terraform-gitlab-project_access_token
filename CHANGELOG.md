@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.0.0](https://gitlab.com/terraform-child-modules-48151/terraform-gitlab-project_access_token/compare/v1.1.1...v2.0.0) (2026-05-26)
+
+### ⚠ BREAKING CHANGES
+
+* **terraform:** This release contains breaking changes. Please have a
+look at the upgrade guide:
+
+  - https://registry.terraform.io/providers/gitlabhq/gitlab/latest/docs/guides/version-19.0-upgrade
+
+### Features
+
+* **terraform:** Add support for GitLab 19.x ([0402cdc](https://gitlab.com/terraform-child-modules-48151/terraform-gitlab-project_access_token/commit/0402cdc3c0e546f7193e43595000e2091129d900))
+
 ## [1.1.1](https://gitlab.com/terraform-child-modules-48151/terraform-gitlab-project_access_token/compare/v1.1.0...v1.1.1) (2026-02-02)
 
 ### Bug Fixes
